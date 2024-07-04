@@ -2,7 +2,7 @@
 
 PDF :
 
-[UTS ANALISA KEBUTUHAN SISTEM.pdf](https://github.com/faizdzakiramadhani/UTS-Analisa-Kebutuhan-Sistem/files/15333858/UTS.ANALISA.KEBUTUHAN.SISTEM.pdf)
+[UTS analisa.pdf](https://github.com/user-attachments/files/16101338/UTS.analisa.pdf)
 
 Link YT :
 
